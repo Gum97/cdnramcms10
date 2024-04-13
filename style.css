@@ -1861,7 +1861,7 @@ input[type=checkbox] {
 .module-paper-item-header {
 	padding: 20px 15px 25px;
 	text-align: center;
-	background: url(../cdnramcms10/images/colour-bg.png) no-repeat;
+	background: url(https://cdn.jsdelivr.net/gh/Gum97/cdnramcms10/images/colour-bg.png) no-repeat;
 	background-size: 150%;
 	background-position-y: -20px
 }
