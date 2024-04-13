@@ -375,7 +375,7 @@ input[type=checkbox] {
 @font-face {
 	font-family: 'iconfont';
 	src: url("../cdnramcms10/fonts/iconfont.eot?fanger");
-	src: url("../fonts/iconfont.eot?fanger#iefix") format("embedded-opentype"), url("../fonts/iconfont.ttf?fanger") format("truetype"), url("../fonts/iconfont.woff?fanger") format("woff"), url("../fonts/iconfont.svg?fanger#wpfont") format("svg");
+	src: url("../fonts/iconfont.eot?fanger#iefix") format("embedded-opentype"), url("../cdnramcms10/fonts/iconfont.ttf?fanger") format("truetype"), url("../fonts/iconfont.woff?fanger") format("woff"), url("../fonts/iconfont.svg?fanger#wpfont") format("svg");
 	font-weight: normal;
 	font-style: normal;
 	font-display: block
