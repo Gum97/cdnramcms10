@@ -2595,7 +2595,7 @@ input[type=checkbox] {
 	height: 80vh;
 	width: 450px;
 	margin: 0 auto;
-	background: #fff url(../images/colour-bg.png) no-repeat;
+	background: #fff url(https://cdn.jsdelivr.net/gh/Gum97/cdnramcms10/images/colour-bg.png) no-repeat;
 	background-size: 150%;
 	background-position-y: -30px;
 	box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.07);
@@ -4666,7 +4666,7 @@ input[type=checkbox] {
 		position: absolute;
 		height: 100%;
 		width: 100%;
-		background: url(../images/colour-bg.png) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/Gum97/cdnramcms10/images/colour-bg.png) no-repeat;
 		background-size: 100%;
 		top: 0;
 		z-index: -1
@@ -5015,7 +5015,7 @@ input[type=checkbox] {
 		left: 0;
 		bottom: 0;
 		z-index: 5000;
-		background: #fff url(../images/colour-bg.png) no-repeat;
+		background: #fff url(https://cdn.jsdelivr.net/gh/Gum97/cdnramcms10/images/colour-bg.png) no-repeat;
 		background-size: 150%;
 		background-position-y: -20px;
 		transform: translate3d(0, 100%, 0);
@@ -5160,7 +5160,7 @@ input[type=checkbox] {
 		z-index: 9;
 		border-radius: 18px 18px 8px 8px;
 		box-shadow: 0 2.75px 2.21px rgba(0, 0, 0, 0.01), 0 6.65px 5.32px rgba(0, 0, 0, 0.02), 0 12.5px 10px rgba(0, 0, 0, 0.01), 0 22px 18px rgba(0, 0, 0, 0.03), 0 42px 33.4px rgba(0, 0, 0, 0.02), 0 100px 80px rgba(0, 0, 0, 0.01), 0 0 1px rgba(0, 0, 0, 0.1);
-		background: #fff url(../images/colour-bg.png) no-repeat;
+		background: #fff url(https://cdn.jsdelivr.net/gh/Gum97/cdnramcms10/images/colour-bg.png) no-repeat;
 		background-size: 150%;
 		background-position-y: -20px;
 		margin-top: 210px
